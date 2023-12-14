@@ -1,0 +1,3 @@
+data/XwiWordList.txt
+*.pth
+__pycache__/
