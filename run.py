@@ -7,7 +7,6 @@ import torch.optim as optim
 from dataset import NYTCluesDataset, LETTERS
 from model import MutantLetterBinaryClassifier
 
-# TODO: tune all of this
 MAX_EPOCHS = 50
 HIDDEN_LAYER_SIZE = 128
 BATCH_SIZE = 1000
